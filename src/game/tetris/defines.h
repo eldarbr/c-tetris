@@ -1,0 +1,15 @@
+#ifndef TETRIS_DEFINES
+#define TETRIS_DEFINES
+
+/// @file defines.h
+/// @brief Game global setting
+
+#define MAX_FIGURE_SIZE 4
+#define ALLOWED_FIGURES_COUNT 7
+
+#define FIELD_VISIBLE_HEIGHT 20
+#define FIELD_UPPER_MARGIN 4
+#define FIELD_TOTAL_HEIGHT FIELD_VISIBLE_HEIGHT + FIELD_UPPER_MARGIN
+#define FIELD_WIDTH 10
+
+#endif

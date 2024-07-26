@@ -1,0 +1,7 @@
+PROJECT_NAME           = tetris_game
+PROJECT_NUMBER         = 1.0
+PROJECT_BRIEF          = "Tetris"
+OUTPUT_DIRECTORY       = docs
+INPUT                  = game game/tetris
+FILE_PATTERNS          = *.c *.h
+GENERATE_LATEX         = NO
